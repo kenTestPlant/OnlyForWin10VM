@@ -1,3 +1,5 @@
 ﻿Log "Hello world!"
 
 Log "more stuff"
+
+Log "worked from command line, why not here"

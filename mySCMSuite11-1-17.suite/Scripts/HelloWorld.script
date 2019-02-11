@@ -5,3 +5,5 @@ Log "more stuff"
 Log "worked from command line, why not here"
 
 Log "try again fro 11am11-1-17"
+
+log "changed"
